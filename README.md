@@ -10,11 +10,8 @@ Zip search engine project, to train API consumption
 ## Photo 🎴
 <div align= "center">
 
-   <img src="./readme-assets/buscador.JPG" width='50%' >
-    
-   <img src="./readme-assets/buscador1.JPG" width= '50%' >
-    
-   <img src="./readme-assets/buscador.gif" width= '70%' >
+   <img src="./readme-assets/cep.gif" >
+
 </div>
 
 
